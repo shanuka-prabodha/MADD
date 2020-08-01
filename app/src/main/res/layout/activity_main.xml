@@ -66,7 +66,7 @@
         android:layout_width="152dp"
         android:layout_height="32dp"
         android:layout_marginTop="216dp"
-        android:text="Name             -"
+        android:text="Name with initial       -"
         android:textColor="#000000"
         android:textSize="24sp"
         android:textStyle="bold"
